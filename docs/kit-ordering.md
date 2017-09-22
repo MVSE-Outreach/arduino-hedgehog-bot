@@ -4,11 +4,11 @@
 
 | Part image | Part | Quantity per bot | Comments |
 |------------|------|------------------|----------|
-| ![9V lead](./media/9v-lead.png) | 9V Lead with barrel jack | 1 | |
-| ![9V battery](./media/9v.png) | 9V battery | 1 | Sometimes kids go through more than a single battery in a single session |
-| ![Motor drive board](./media/driver-board-uln2003.png) | ULN2003 Stepper motor driver board | 2 | |
-| ![Stepper motor](./media/stepper-motor.png) | 28YBJ-48 Stepper motor | 2 | |
-| ![Male to female dupont jumpers](./media/male-to-female-dupont-jumpers.png) | Male to female dupont jumper cable | 20 | |
-| ![Wemos D1 R2 v2.1.0](./media/wemos-d1-r2-v2-1-0.png) | Wemos D1 R2 (v2.1.0) | 1 | |
-| ![I2C 0.96" OLED](./media/i2c-oled.png) | I2C 0.96" OLED screen | 1 | |
-| ![USB cable](./media/usb.png) | Micro USB cable | 1 | Observed about a 5% failure rate in the cheap one we buy |
+| ![9V lead](./media/parts/9v-lead.png) | 9V Lead with barrel jack | 1 | |
+| ![9V battery](./media/parts/9v.png) | 9V battery | 1 | Sometimes kids go through more than a single battery in a single session |
+| ![Motor drive board](./media/parts/driver-board-uln2003.png) | ULN2003 Stepper motor driver board | 2 | |
+| ![Stepper motor](./media/parts/stepper-motor.png) | 28YBJ-48 Stepper motor | 2 | |
+| ![Male to female dupont jumpers](./media/parts/male-to-female-dupont-jumpers.png) | Male to female dupont jumper cable | 20 | |
+| ![Wemos D1 R2 v2.1.0](./media/parts/wemos-d1-r2-v2-1-0.png) | Wemos D1 R2 (v2.1.0) | 1 | |
+| ![I2C 0.96" OLED](./media/parts/i2c-oled.png) | I2C 0.96" OLED screen | 1 | |
+| ![USB cable](./media/parts/usb.png) | Micro USB cable | 1 | Observed about a 5% failure rate in the cheap one we buy |

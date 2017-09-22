@@ -1,4 +1,7 @@
 # Hedgehog Bot
+
+[![Hedgehog bot](./docs/media/bot/complete-bot.png)](http://hedgehogbot.co.uk)
+
 ## Prerequisites
 
 * [CH340 Drivers](http://www.nerdkits.com/usb-serial/ch341.php)
