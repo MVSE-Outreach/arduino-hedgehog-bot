@@ -40,6 +40,7 @@ Factors of consideration:
   purchasing and actually be placed, again you have to account for this.
 
 | Supplier | Typical lead time (working days) | Comments |
+|----------|----------------------------------|----------|
 | [Aliexpress](https://www.aliexpress.com/) | 40 | We haven't had experience placing an order from Aliexpress yet |
 | [Banggood](https://www.banggood.com/) | 7-20 | Typically arrive in under a month from placing an order |
 
