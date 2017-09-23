@@ -2,6 +2,8 @@
 
 [![Hedgehog bot](./docs/media/bot/complete-bot.png)](http://hedgehogbot.co.uk)
 
+Instructional videos are available on [YouTube](https://www.youtube.com/playlist?list=PLFSZW1PcP6gNI3f4X1cLMgz0ljdSJu5kU)
+
 ## Prerequisites
 
 * [CH340 Drivers](http://www.nerdkits.com/usb-serial/ch341.php)
