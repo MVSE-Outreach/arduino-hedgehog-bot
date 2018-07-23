@@ -1,6 +1,7 @@
 ---
 title: LED
 description: This is the first challenge - learn some programming and create some Morse code! 
+alt_v1: https://docs.google.com/presentation/d/1DZbnwOQN-aU16YOYuVppmZkEunN-LtYr8j3dcDj1nHI/pub
 
 requires_kit: board-only
 language: C++

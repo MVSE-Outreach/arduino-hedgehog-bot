@@ -1,6 +1,7 @@
 ---
 title: Bot
 description: This is the second challenge - build your robot and get it moving! 
+alt_v1: https://docs.google.com/presentation/d/1WIN4TMjElcPm9t5xDhwrXADAptzXfMISy4myXoclRKg/pub
 
 requires_kit: all
 language: C++

@@ -61,6 +61,13 @@
           It may be a little rough around the edges: <a href="https://twitter.com/{{site.twitter_username}}">tweet us</a> if there's any issues.
         </div>
         {% endif %}
+        
+        {% if page.alt_v1 %}
+        <div class="requisite-warning warning">
+          <h4>This challenge is for Hedgehog Bot v2 only</h4>
+          <p class="no-margin">Hedgehog Bot Kit V1 was distributed in 2015 and contains an Arduino Nano and breadboard. <strong>No further workshops are being developed for older versions of the kit</strong>, although a compatible version of this challenge is available <a href="{{ page.alt_v1 | absolute_url }}" target="_blank">here</a>.</p>
+        </div>
+        {% endif %}
 
         {% capture the_collection %}{{page.collection}}{% endcapture %}
         {% if page.collection %}
