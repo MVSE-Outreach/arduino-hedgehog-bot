@@ -1,3 +1,6 @@
+#ifndef _ESP_SSD1306_H
+#define _ESP_SSD1306_H
+
 /*********************************************************************
  *
  **  Modified Adafruit Library to work with OLED SSD1306_128_64 with SPI communication only **
@@ -185,15 +188,4 @@ class ESP_SSD1306 : public Adafruit_GFX {
 
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
+#endif // _ESP_SSD1306_H

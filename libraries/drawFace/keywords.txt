@@ -1,9 +1,0 @@
-drawFace	KEYWORD1
-Draw		KEYWORD1
-start		KEYWORD2
-smile		KEYWORD2
-frown		KEYWORD2
-wink		KEYWORD2
-print		KEYWORD2
-println		KEYWORD2
-clear		KEYWORD2

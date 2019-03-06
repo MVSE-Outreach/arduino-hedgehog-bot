@@ -1,0 +1,6 @@
+[submodule "hedgehog-clock"]
+	path = hedgehog-clock
+	url = git@github.com:jda0/hedgehog-clock
+[submodule "hedgehog-starter"]
+	path = hedgehog-starter
+	url = git@github.com:jda0/hedgehog-starter
