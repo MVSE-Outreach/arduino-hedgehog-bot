@@ -108,6 +108,8 @@ header_bg: "#FCFDF6"
     3. repeat over and over!
 
     ```c 
+    #include "Arduino.h"
+    
     void setup() {
       pinMode(BUILTIN_LED, OUTPUT); // set up the LED
     }
