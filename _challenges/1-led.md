@@ -51,7 +51,7 @@ header_bg: "#FCFDF6"
     2. Open the Extensions sidebar <i class="vscode-extensions"></i>.
     3. Search for and install the extension **PlatformIO IDE**.
     4. Wait for the panel that pops up at the bottom of the screen to ask you to restart VS Code, and do so.
-    5. [Download the starter workspace]({{"/assets/releases/hedgehog-starter.zip" | relative_url}}){: .download} (You might need to click **Save** if you're using Edge or Firefox), and extract it somewhere (Windows: Open folder, right-click **hedgehog-starter** and click **Extract all...**; Mac: double-click it).
+    5. [Download the starter workspace]({{"/assets/releases/hedgehog-starter.zip" | relative_url}}){: .download} (you might need to click **Save** if you're using Edge or Firefox), and extract it somewhere (Windows: Open folder, right-click **hedgehog-starter** and click **Extract all...**; Mac: double-click it).
     6. In Visual Studio Code, click **File&rarr;Open Folder** and open the extracted starter (it's normally in Downloads).
     7. If you don't see a row of icons in the bottom-left corner after a few seconds, including a tick and upload icon <i class="arduino-upload"></i>, restart VS Code.
     8. From the Explorer sidebar (pages icon), open **src/main.cpp**.
